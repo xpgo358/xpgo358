@@ -1,22 +1,16 @@
-### Hi there 👋
+### Hi there! 👋 I'm xpgo358  
 
-<!--
-**xpgo358/xpgo358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Learning at [The Odin Project](https://theodinproject.com)  
+🐣 Beginner in web development  
+💻 Windows WSL User  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🌱 I’m currently learning at [TheOdinProject](https://theodinproject.com)
-- 🐣 I'm a beginner/newbie.
-- 💻 Windows WSL User.
-- 🍎 Never used an Apple device.
+---
 
-
+![xpgo358's Stats](https://github-readme-stats.vercel.app/api?username=xpgo358&theme=dark&show_icons=true&hide_border=true&count_private=true)
