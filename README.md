@@ -2,7 +2,7 @@
 
 🌱 Learning at [The Odin Project](https://theodinproject.com)  
 🐣 Super-beginner in web development  
-💻 Windows WSL User  (By now)
+💻 CachyOS + Windows User
 
 ---
 
